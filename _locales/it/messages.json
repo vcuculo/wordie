@@ -1,6 +1,6 @@
 {
 	"app_description" : {
-		"message": "Traduci con un click una o più parole in qualsiasi lingua, grazie a Wordreference!"
+		"message": "Seleziona. Traduci. Con Wordreference!"
 	},
 
 	"menus_languages_ar": {
@@ -60,5 +60,27 @@
 	},
 	"menus_to": {
 		"message": "a"
+	},
+
+	"popup_intro": {
+		"message": "Con <b>Wordie!</b> puoi tradurre facilmente una parola che non conosci, grazie a Wordreference. <b>Come?</b>"
+	},
+	"popup_step1": {
+		"message": "scegli la parola che devi tradurre;"
+	},
+	"popup_step2": {
+		"message": "premi Alt + W;"
+	},
+	"popup_step3": {
+		"message": "facile, vero? :)"
+	},
+	"popup_also": {
+		"message": "Se vuoi, puoi premere il pulsante destro del mouse dopo aver scelto la parola per usare il menu \"Wordie!\""
+	},
+	"popup_default": {
+		"message": "Lingue di Default"
+	},
+	"popup_default_explanation": {
+		"message": "Di default, Wordie traduce dall'inglese all'italiano, ma puoi cambiare lingue scegliendole qui."
 	}
-} 
+}

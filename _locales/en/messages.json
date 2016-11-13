@@ -1,6 +1,6 @@
 {
 	"app_description" : {
-		"message": "Translate one or more words, in every language, with just a click using Wordreference!"
+		"message": "Select. Translate. With Wordreference!"
 	},
 
 	"menus_languages_ar": {
@@ -60,5 +60,27 @@
 	},
 	"menus_to": {
 		"message": "to"
-	}
+	},
+
+    "popup_intro": {
+        "message": "With <b>Wordie!</b> you can easily translate a word you don't know, using Wordreference. <b>How?</b>"
+    },
+    "popup_step1": {
+        "message": "select the word you need to translate;"
+    },
+    "popup_step2": {
+        "message": "press Alt + W;"
+    },
+    "popup_step3": {
+        "message": "tah-dah! :)"
+    },
+    "popup_also": {
+        "message": "You can also right-click after you have selected a word, and then use the \"Wordie!\" menu for more options."
+    },
+    "popup_default": {
+        "message": "Default Languages"
+    },
+    "popup_default_explanation": {
+        "message": "By default, Wordie translates from English to Italian, but you can change this behavior with the following menu."
+    }
 }
