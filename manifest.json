@@ -30,7 +30,10 @@
       "scripts/jquery.min.js",
 
       "scripts/languages.js",
-      "scripts/menus.js"
+
+      "scripts/core.js",
+      "scripts/menus.js",
+      "scripts/shortcuts.js"
     ]
   },
 

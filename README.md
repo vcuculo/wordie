@@ -1,5 +1,3 @@
-# Wordie!
-
 ![Wordie Logo](assets/imgs/popup-head.png)
 
 ## What is this?

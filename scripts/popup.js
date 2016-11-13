@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    $( "#default_languages" ).change(function() {
+    $("#default_languages").change(function() {
         var value = $('#default_languages').val();
 
         defaultTranslation = value.split('-');
