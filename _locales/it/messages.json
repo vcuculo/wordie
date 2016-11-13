@@ -1,0 +1,64 @@
+{
+	"app_description" : {
+		"message": "Traduci con un click una o più parole in qualsiasi lingua, grazie a Wordreference!"
+	},
+
+	"menus_languages_ar": {
+		"message": "Arabo"
+	},
+	"menus_languages_zh": {
+		"message": "Cinese"
+	},
+	"menus_languages_cz": {
+		"message": "Ceco"
+	},
+	"menus_languages_en": {
+		"message": "Inglese"
+	},
+	"menus_languages_fr": {
+		"message": "Francese"
+	},
+	"menus_languages_gr": {
+		"message": "Greco"
+	},
+	"menus_languages_it": {
+		"message": "Italiano"
+	},
+	"menus_languages_ja": {
+		"message": "Giapponese"
+	},
+	"menus_languages_ko": {
+		"message": "Coreano"
+	},
+	"menus_languages_pl": {
+		"message": "Polacco"
+	},
+	"menus_languages_pt": {
+		"message": "Portoghese"
+	},
+	"menus_languages_ro": {
+		"message": "Rumeno"
+	},
+	"menus_languages_ru": {
+		"message": "Russo"
+	},
+	"menus_languages_es": {
+		"message": "Spagnolo"
+	},
+	"menus_languages_de": {
+		"message": "Tedesco"
+	},
+	"menus_languages_tr": {
+		"message": "Turco"
+	},
+
+	"menus_translate": {
+		"message": "Traduci"
+	},
+	"menus_from": {
+		"message": "da"
+	},
+	"menus_to": {
+		"message": "a"
+	}
+} 

@@ -1,0 +1,64 @@
+{
+	"app_description" : {
+		"message": "Translate one or more words, in every language, with just a click using Wordreference!"
+	},
+
+	"menus_languages_ar": {
+		"message": "Arabic"
+	},
+	"menus_languages_zh": {
+		"message": "Chinese"
+	},
+	"menus_languages_cz": {
+		"message": "Czech"
+	},
+	"menus_languages_en": {
+		"message": "English"
+	},
+	"menus_languages_fr": {
+		"message": "French"
+	},
+	"menus_languages_gr": {
+		"message": "Greek"
+	},
+	"menus_languages_it": {
+		"message": "Italian"
+	},
+	"menus_languages_ja": {
+		"message": "Japanese"
+	},
+	"menus_languages_ko": {
+		"message": "Korean"
+	},
+	"menus_languages_pl": {
+		"message": "Polish"
+	},
+	"menus_languages_pt": {
+		"message": "Portuguese"
+	},
+	"menus_languages_ro": {
+		"message": "Romanian"
+	},
+	"menus_languages_ru": {
+		"message": "Russian"
+	},
+	"menus_languages_es": {
+		"message": "Spanish"
+	},
+	"menus_languages_tr": {
+		"message": "Turkish"
+	},
+	"menus_languages_de": {
+		"message": "German"
+	},
+
+	"menus_translate": {
+		"message": "Translate"
+	},
+	"menus_from": {
+		"message": "from"
+	},
+	"menus_to": {
+		"message": "to"
+	}
+}

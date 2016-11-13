@@ -1,0 +1,54 @@
+{
+  "update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 2,
+  "name": "Wordie!",
+  "short_name": "Wordie!",
+  "version": "2.0",
+
+  "default_locale": "it",
+  "description": "Wordie! Select. Translate.",
+
+  "icons": {
+    "16": "media/16.png",
+    "24": "media/24.png",
+    "48": "media/48.png",
+    "128": "media/128.png"
+  },
+
+  "browser_action": {
+    "default_icon": "media/24.png",
+    "default_popup": "popup.html"
+  },
+
+  "author": "Francesco Malatesta",
+
+  "permissions": ["contextMenus", "tabs", "<all_urls>"],
+
+  "background": {
+    "scripts": [
+      "scripts/jquery.min.js",
+
+      "scripts/languages.js",
+      "scripts/menus.js"
+    ]
+  },
+
+  "commands": {
+    "sc-translate": {
+      "suggested_key": {
+        "default": "Alt+W",
+        "mac": "Alt+W"
+      },
+      "description": "Default language translation shortcut."
+    },
+
+    "sc-translate-reverse": {
+      "suggested_key": {
+        "default": "Alt+R",
+        "mac": "Alt+R"
+      },
+      "description": "Default language reverse translation shortcut."
+    }
+  }
+}

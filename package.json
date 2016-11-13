@@ -1,0 +1,19 @@
+{
+  "name": "wordie",
+  "version": "2.0.0",
+  "description": "Wordie! Select. Translate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordie",
+    "translate",
+    "languages"
+  ],
+  "author": "Francesco Malatesta",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
