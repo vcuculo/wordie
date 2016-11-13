@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
 rm -rf ./bin
+rm bin.zip
+
 mkdir ./bin
 
 cp -rf ./media ./bin/media
@@ -12,3 +14,6 @@ cp ./node_modules/jquery/dist/jquery.min.js ./bin/scripts/jquery.min.js
 
 cp ./popup.html ./bin/popup.html
 cp ./manifest.json ./bin/manifest.json
+
+cd bin
+zip -r -9 ../bin.zip *
