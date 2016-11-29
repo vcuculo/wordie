@@ -5,5 +5,5 @@ if(localStorage.defaultTranslation == undefined){
 
 function goToTranslation(term, translation){
     var translateLanguages = translation.split('-');
-    window.open('http://www.wordreference.com/' + translateLanguages[0] + translateLanguages[1] + '/' + term, '_blank');
+    chrome.tabs.create({ url:'http://www.wordreference.com/' + translateLanguages[0] + translateLanguages[1] + '/' + term });
 }
