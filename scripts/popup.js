@@ -1,7 +1,7 @@
 $(document).ready(function(){
-    $("#default_languages").change(onDefaultLanguageChange);
     renderPopupUi();
     populateDefaultLanguagesMenu();
+    $("#default_languages").change(onDefaultLanguageChange);    
 });
 
 function populateDefaultLanguagesMenu() {
